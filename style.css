@@ -130,5 +130,9 @@ footer p{
     .about-section h2{
         font-size: 25px;
     }
+    .imgContainer, img{
+        width: 250px;
+        height: 270px;
+    }
 }
 
